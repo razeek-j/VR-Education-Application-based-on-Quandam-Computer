@@ -1,5 +1,5 @@
 # VR-Education-Application-based-on-Quandam-Computer
-This is a VR application based on uandam Computer Education on Oculus Rift S
+This is a VR application based on Quandam Computer Education on Oculus Rift S
 
 more readme coming soon.
 
