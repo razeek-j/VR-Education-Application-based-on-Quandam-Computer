@@ -1,10 +1,16 @@
 # VR-Education-Application-based-on-Quandam-Computer
 
-![Project Image or Logo if available](image_link_here)
+
+# VR Education Project: Quantum Computing
+
 
 ## Overview
 
-Briefly introduce the project, its purpose, and its significance. Explain how Virtual Reality (VR) technology is utilized in educating about Quantum Computing.
+Welcome to the VR Education Project on Quantum Computing! This project aims to revolutionize the learning experience by leveraging Virtual Reality (VR) technology to dive into the complex world of Quantum Computing.
+
+Demo Video : https://youtu.be/TCIw8ausyk0 
+
+![Screenshot 2023-06-24 132307](https://github.com/razeek-j/VR-Education-Application-based-on-Quandam-Computer/assets/72665042/c5132a38-0a9a-4dcd-a537-45e248948d05)
 
 ## Table of Contents
 
@@ -18,35 +24,46 @@ Briefly introduce the project, its purpose, and its significance. Explain how Vi
 
 ## Project Description
 
-Explain the project in detail, including its goals, objectives, and the problem it aims to solve in the education sector. Highlight the importance of VR in enhancing learning experiences related to Quantum Computing concepts.
+Our VR Education Project focuses on delivering an immersive learning experience in Quantum Computing. It serves as an interactive educational tool, visualizing intricate quantum concepts in an engaging manner to facilitate better understanding for learners of all levels.
 
 ## Features
 
-Enumerate the key features of the VR application related to Quantum Computing education.
-
-- Interactive modules explaining quantum principles
-- User-friendly VR interface for immersive learning
-- [Add more features]
+- **Interactive Modules:** Engaging modules explaining quantum principles such as qubits, quantum gates, and algorithms.
+- **Immersive VR Interface:** User-friendly interface designed for an immersive and intuitive learning experience.
+- **Dynamic Visualization:** Real-time simulations demonstrating abstract quantum concepts.
 
 ## Installation
 
-Provide instructions or prerequisites needed to set up the project locally. Include installation steps for required software, libraries, or dependencies.
+To run this VR application locally, follow these steps:
+
+1. Clone this repository.
+2. Install Unity Hub if not already installed.
+3. Open the project in Unity.
+4. Oculus Rift S is the platform which it is developed for so connect the headset properly.
 
 ## Usage
 
-Explain how to use the VR application. Provide clear instructions on navigating the application and accessing educational content related to Quantum Computing.
+To experience the VR education module:
+
+1. Launch the VR application.
+2. Navigate through the modules using [controls or instructions].
+3. Explore the quantum principles presented in an immersive environment.
 
 ## Technologies Used
 
-List the technologies, tools, frameworks, and languages used in the project. This could include Unity, C#, VR SDKs, etc.
+- Unity 3D
+- C# for scripting
+- VR SDKs (Oculus)
 
 ## Contributing
 
-If you're open to contributions, explain how others can contribute to the project, whether through code, bug reports, feature requests, etc.
+Contributions to enhance the VR education experience are welcome! If you'd like to contribute, please mail @ moosarazeek@gmail.com
 
 ## License
 
-Specify the license under which the project is distributed. Mention any relevant copyright information or permissions.
+This project is free
+
+
 
 
 
